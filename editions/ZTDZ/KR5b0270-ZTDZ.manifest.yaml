@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0270/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5b0270/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上淨明院補奏職局太玄都省須知
+  date: '2015-08-29 00:15:31.437188'
+  source:
+    repository: kanripo
+    path: KR5b0270
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0270_000-ZTDZ.yaml, hash: 'sha256:961f05d17802fee0946af00fcb1985dbe25fe6b57bd2632708b6c847e36cdaff'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0270_000-ZTDZ.markers.yaml, hash: 'sha256:e3920b7e9a00fd7c583608894e4999f682765479e006c89ffdcb96f5851bf422'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0270_SJB_000-100601c
+    span:
+    - body
+    - 0
+    - 4274
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:298e3fb0c17cbfad357d92d935e7bf230c26d75178b522c7788ce8c209c9aaab
