@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR5b0270/v1
 canonical_location: https://kanripo.org/bkk/KR5b0270/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 太上淨明院補奏職局太玄都省須知
   identifiers:
@@ -32,9 +32,9 @@ editions:
 - short: SJB
 assets:
   parts:
-  - {seq: 0, filename: KR5b0270_000.yaml, hash: 'sha256:0254a7f18c2675afec30685baffcec9caab906e586bc94518592434e21f7d391'}
+  - {seq: 0, filename: KR5b0270_000.yaml, hash: 'sha256:848c5dbb8625997ab75660b189853c2ac0a0ca733793e05b4f8b29d1473e56c8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5b0270_000.markers.yaml, hash: 'sha256:133337b985eba23774883272a23f63d5404d9fb77eea6ec05fdba67caf3eed33'}
+  - {seq: 0, role: markers, filename: assets/KR5b0270_000.markers.yaml, hash: 'sha256:980972c701fa324a13d91c603c12be1776159ee7195c9cd7c1a5baf29448444a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,4 +46,7 @@ table_of_contents:
   label: juan 000
   type: section
   level: 1
-hash: sha256:d5bdb6c07ec51a55fd89719ffc6ea63223f796f130166ee48bd3ee1a0faf9897
+hash: sha256:f43bd4cbbaa5d65d00f2a51ab47f6fcb3f53ac8c8927245bc0b4b01d8cd28768
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
